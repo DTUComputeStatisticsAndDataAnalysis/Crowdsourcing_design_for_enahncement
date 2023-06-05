@@ -24,4 +24,7 @@ The paper is available on the official [IEEE website](https://ieeexplore.ieee.or
 
 For queries, contact: sned@dtu.dk or claroche@jabra.com
 
+Coming soon:
+1. Noisy and enhanced speech dataset
+
 
