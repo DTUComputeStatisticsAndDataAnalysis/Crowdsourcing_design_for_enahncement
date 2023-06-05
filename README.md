@@ -14,3 +14,9 @@ If you use this code for research, please cite our paper as follows:
   pages={1-5},
   doi={10.1109/ICASSP49357.2023.10096447}}
 ```
+
+The paper is available on the official [IEEE website](https://ieeexplore.ieee.org/abstract/document/10096447?casa_token=3CaR7hnJFgwAAAAA:jTYd_z60PQQw0i9iVNZPsosrL3q5lyIIOcnTGIftpePWwVAdAOZqM1o8G9PbB9S6E0iOSeYtOA) and the pre-print on [arXiv](http://arxiv.org/abs/2306.01538).
+
+For queries, contact: sned@dtu.dk or claroche@jabra.com
+
+
