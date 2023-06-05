@@ -9,7 +9,7 @@ width="800px"></p>
 
 If you use this code for research, please cite our paper as follows:
 ```
-@INPROCEEDINGS{10096447,
+@INPROCEEDINGS{das2023crowd,
   author={Suárez, Angélica S. Z. and Laroche, Clément and Clemmensen, Line H. and Das, Sneha},
   booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
   title={On Crowdsourcing-Design with Comparison Category Rating for Evaluating Speech Enhancement Algorithms}, 
