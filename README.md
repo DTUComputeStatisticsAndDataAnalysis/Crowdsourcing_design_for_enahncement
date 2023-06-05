@@ -2,6 +2,11 @@
 This is the official repository of the ICASSP 2023 paper: [On Crowdsourcing-design with Comparison Category Rating for 
 Evaluating Speech Enhancement Algorithms](https://ieeexplore.ieee.org/abstract/document/10096447?casa_token=3CaR7hnJFgwAAAAA:jTYd_z60PQQw0i9iVNZPsosrL3q5lyIIOcnTGIftpePWwVAdAOZqM1o8G9PbB9S6E0iOSeYtOA). 
 
+<p align="center">
+<img src="./pdf/poster.png" alt="Poster summarizing the main results."
+width="800px"></p>
+
+
 If you use this code for research, please cite our paper as follows:
 ```
 @INPROCEEDINGS{10096447,
